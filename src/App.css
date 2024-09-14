@@ -3,12 +3,24 @@
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  border: 0.2rem black solid;
   width: max-content;
   position: absolute;
-  top: 25%;
+  top: 5%;
   left: 25%;
 }
 
-
+.main-ball, .mini-ball{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.main-text,.mini-text{
+  font-size: 4rem;
+}
+.main-text{
+  color: rgb(182, 62, 62);
+}
+.mini-text{
+  color: rgb(170, 56, 174);
+}
 
