@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  border: 0.2rem black solid;
+  width: max-content;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+
+
+

@@ -1,0 +1,13 @@
+.ball{
+    border-radius: 100%;
+    height: 5rem;
+    width: 5rem;
+    background-color: burlywood;
+    color: black;
+}
+
+.num{
+    position: relative;
+    top: 15%;
+    left: 3%;
+}
